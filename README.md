@@ -1,2 +1,2 @@
-# codecademy-computer-science
-My solutions for projects on Codecademy Computer Science Path.
+# codecademy-projects
+My solutions for projects on Codecademy.
